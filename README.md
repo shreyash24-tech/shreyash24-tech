@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Shreyash Dhawale
 
-<!--
-**shreyash24-tech/shreyash24-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 💻 Java Developer | 🚀 DevOps Learner  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-Beginner-orange)
+
+---
+
+## 📌 What I'm Working On
+- Solving **LeetCode problems in Java**
+- Learning **DevOps from basics**
+- Building **real-world mini projects**
+
+---
+
+## 📂 Featured Repositories
+- 🔹 `leetcode-java-solutions`
+- 🔹 `devops-notes`
+- 🔹 `java-practice`
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyash24-tech&show_icons=true)
+
+---
+
+## 🤝 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: (add later)
+
+---
+⭐ *Consistent learning. Clean code. Real growth.*
