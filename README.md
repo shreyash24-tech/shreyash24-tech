@@ -33,8 +33,8 @@
 ---
 
 ## 🤝 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: (add later)
+- GitHub: https://github.com/shreyash24-tech
+- LinkedIn: 
 
 ---
 ⭐ *Consistent learning. Clean code. Real growth.*
