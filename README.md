@@ -56,14 +56,11 @@ My goal is to grow into a **skilled Java Backend / DevOps Engineer** through con
 
 ## 📊 GitHub Stats
 
+![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyash24-tech&show_icons=true&theme=default&hide_border=true)
 
-## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyash24-tech&theme=default&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyash24-tech&show_icons=true&theme=default&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shreyash24-tech)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash24-tech&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash24-tech&layout=compact&hide_border=true)
 
 
 
