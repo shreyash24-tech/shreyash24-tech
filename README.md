@@ -53,16 +53,8 @@ My goal is to grow into a **skilled Java Backend / DevOps Engineer** through con
 ![AWS](https://img.shields.io/badge/AWS-Beginner-orange)
 
 ---
-
 ## 📊 GitHub Stats
-
-![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyash24-tech&show_icons=true&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyash24-tech&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash24-tech&layout=compact&hide_border=true)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyash24-tech&show_icons=true&theme=default&cache_seconds=1800)
 
 ---
 
