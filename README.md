@@ -90,9 +90,6 @@ My goal is to grow into a **skilled Java Backend / DevOps Engineer** through con
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a> 
 </p>
 
 ## 🔗 Connect with me
@@ -104,7 +101,5 @@ My goal is to grow into a **skilled Java Backend / DevOps Engineer** through con
   <a href="https://twitter.com/yourusername" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourusername" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/yourusername" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourusername" height="30" width="40" />
-  </a>
 </p>
+
