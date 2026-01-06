@@ -56,6 +56,8 @@ My goal is to grow into a **skilled Java Backend / DevOps Engineer** through con
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyash24-tech&show_icons=true&theme=default&cache_seconds=1800)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=shreyash24-tech)
+
 ---
 
 ## 🤝 Connect With Me
