@@ -26,7 +26,7 @@ My goal is to grow into a **skilled Java Backend / DevOps Engineer** through con
   <br/><br/>
   
   <!-- Streak Stats Card -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=shreyash24-tech&theme=dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+   <img height="180em" src="https://streak-stats.demolab.com?user=shreyash24-tech&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="shreyash24-tech's streak" />
   
 </div>
 
