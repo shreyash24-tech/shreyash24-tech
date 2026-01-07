@@ -15,7 +15,7 @@ My goal is to grow into a **skilled Java Backend / DevOps Engineer** through con
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyash24-tech&show_icons=true&theme=radical)
 
