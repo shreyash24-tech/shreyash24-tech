@@ -15,24 +15,16 @@ My goal is to grow into a **skilled Java Backend / DevOps Engineer** through con
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyash24-tech&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash24-tech&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&exclude_repo=github-readme-stats,shreyash24-tech.github.io" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  <!-- Streak Stats Card -->
-   <img src="https://streak-stats.demolab.com/?user=shreyash24-tech&theme=default&hide_border=true" alt="GitHub Streak" /> 
-  
-</div>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyash24-tech&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyash24-tech&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash24-tech&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shreyash24-tech&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shreyash24-tech&color=blue)
+
 
 ---
 
