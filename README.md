@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 I'm a passionate engineering student focused on building a strong foundation in **Java**, **Data Structures & Algorithms**, and **DevOps**.  
-I enjoy solving problems, writing clean code, and learning how modern software systems are built and deployed.
+I enjoy solving problems, writing clean code, and learning how modern software systems are built and deployed .
 
 My goal is to grow into a **skilled Java Backend / DevOps Engineer** through consistent practice and real-world projects.
 
