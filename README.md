@@ -3,7 +3,7 @@
 🎓 Engineering Student | 💻 Java Developer | 🚀 DevOps Learner  
 📍 India  
 
----
+----
 
 ## 👨‍💻 About Me
 I'm a passionate engineering student focused on building a strong foundation in **Java**, **Data Structures & Algorithms**, and **DevOps**.  
